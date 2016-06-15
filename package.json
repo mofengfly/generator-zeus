@@ -1,11 +1,11 @@
 {
   "name": "generator-zeus",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "scoffld webapp",
   "homepage": "",
   "author": {
-    "name": "liuxiaowei",
-    "email": "liuxiaowei@weidian.com",
+    "name": "mofeng",
+    "email": "liuxw369@gmail.com",
     "url": ""
   },
   "files": [
